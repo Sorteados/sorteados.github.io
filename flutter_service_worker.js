@@ -4,9 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "9c289ceb8aadf7b89ac7171e31f06bc8",
-"index.html": "6a924910dc27ebd674b140c1021ece2a",
-"/": "6a924910dc27ebd674b140c1021ece2a",
-"main.dart.js": "9190674087597615d803e3b77b0b7e0d",
+"index.html": "e53837c1bcc6bd4cd0fde512941c11eb",
+"/": "e53837c1bcc6bd4cd0fde512941c11eb",
+"main.dart.js": "d51b99d087617428dbfae8e8545dd0e6",
+"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "favicon.png": "a9407191beb8599e4d382ddb4a5ff96a",
 "icons/Icon-192.png": "33263ef6e178cce94ecb6d3f054ac86e",
 "icons/Icon-maskable-192.png": "33263ef6e178cce94ecb6d3f054ac86e",
@@ -20,7 +21,11 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/assets/Dongle-Regular.ttf": "bbcc589e93dffa4edd3c4f2909d8e9c7",
 "assets/assets/Dongle-Light.ttf": "48dddd27aea10aa2f5656a69bb93980b",
-"assets/assets/Dongle-Bold.ttf": "153a5c3b5262e045f590b5ceacfcb3e6"
+"assets/assets/Dongle-Bold.ttf": "153a5c3b5262e045f590b5ceacfcb3e6",
+"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
+"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
+"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
+"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
 };
 
 // The application shell files that are downloaded before a service worker can
